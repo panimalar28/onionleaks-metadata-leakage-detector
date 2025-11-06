@@ -1,0 +1,159 @@
+[
+  {
+    "site": "site1.txt",
+    "content_snippet": "Welcome to DarkMarket\nContact: darkking@protonmail.com\nBTC Wallet: 1BoatSLRHtKNngkdXEeobR76b53LETtpyT\nPGP Key ID: 0x9C123456\nPosted: 2025-10-10 14:23:11",
+    "metadata": {
+      "email": [
+        "darkking@protonmail.com"
+      ],
+      "btc_wallet": [
+        "1BoatSLRHtKNngkdXEeobR76b53LETtpyT"
+      ],
+      "pgp_key": [
+        "0x9C123456"
+      ],
+      "timestamp": []
+    }
+  },
+  {
+    "site": "site10.txt",
+    "content_snippet": "Blog: OnionNews\nAuthor: reporter@onionpress.onion\nContact: press@media.com\nBTC Tip: 1BoatSLRHtKNngkdXEeobR76b53LETtpyT\nPGP Key: 0x9C123456",
+    "metadata": {
+      "email": [
+        "reporter@onionpress.onion",
+        "press@media.com"
+      ],
+      "btc_wallet": [
+        "1BoatSLRHtKNngkdXEeobR76b53LETtpyT"
+      ],
+      "pgp_key": [
+        "0x9C123456"
+      ],
+      "timestamp": []
+    }
+  },
+  {
+    "site": "site2.txt",
+    "content_snippet": "Hidden Bazaar - goods and services\nReach out: shadow.seller@mail.com\nBTC Wallet: 3J98t1WpEZ73CNmQviecrnyiWrnqRhWNLy\nNote: PGP: 0xA1B2C3D4",
+    "metadata": {
+      "email": [
+        "shadow.seller@mail.com"
+      ],
+      "btc_wallet": [
+        "3J98t1WpEZ73CNmQviecrnyiWrnqRhWNLy"
+      ],
+      "pgp_key": [
+        "0xA1B2C3D4"
+      ],
+      "timestamp": []
+    }
+  },
+  {
+    "site": "site3.txt",
+    "content_snippet": "Forum: LeakHub\nAdmin email: admin@leakhub.org\nDonation wallet: 1BoatSLRHtKNngkdXEeobR76b53LETtpyT\nPGP: 0x9C123456",
+    "metadata": {
+      "email": [
+        "admin@leakhub.org"
+      ],
+      "btc_wallet": [
+        "1BoatSLRHtKNngkdXEeobR76b53LETtpyT"
+      ],
+      "pgp_key": [
+        "0x9C123456"
+      ],
+      "timestamp": []
+    }
+  },
+  {
+    "site": "site4.txt",
+    "content_snippet": "Marketplace X\nContact: payme@protonmail.com\nBTC: 1FfmbHfnpaZjKFvyi1okTjJJusN455paPH\nPGP ID: 0xDEADBEEF",
+    "metadata": {
+      "email": [
+        "payme@protonmail.com"
+      ],
+      "btc_wallet": [
+        "1FfmbHfnpaZjKFvyi1okTjJJusN455paPH"
+      ],
+      "pgp_key": [
+        "0xDEADBEEF"
+      ],
+      "timestamp": []
+    }
+  },
+  {
+    "site": "site5.txt",
+    "content_snippet": "Service: SecureMail\nEmail: secure.helpdesk@mail.com\nNote: We accept BTC 3Ai1JZ8pdJb2ksieUV8Fsx2Xxk8M7qkV3Q\nPGP: 0xCAFEBABE",
+    "metadata": {
+      "email": [
+        "secure.helpdesk@mail.com"
+      ],
+      "btc_wallet": [
+        "3Ai1JZ8pdJb2ksieUV8Fsx2Xxk8M7qkV3Q"
+      ],
+      "pgp_key": [
+        "0xCAFEBABE"
+      ],
+      "timestamp": []
+    }
+  },
+  {
+    "site": "site6.txt",
+    "content_snippet": "Dark Forum Post\nContact: darkking@protonmail.com\nSignature PGP 0x9C123456\nTimestamp: 2025-09-30T03:12:00Z",
+    "metadata": {
+      "email": [
+        "darkking@protonmail.com"
+      ],
+      "btc_wallet": [],
+      "pgp_key": [
+        "0x9C123456"
+      ],
+      "timestamp": []
+    }
+  },
+  {
+    "site": "site7.txt",
+    "content_snippet": "Shop: NightTrade\nReach: night_trade@mail.com\nBTC: 1BoatSLRHtKNngkdXEeobR76b53LETtpyT",
+    "metadata": {
+      "email": [
+        "night_trade@mail.com"
+      ],
+      "btc_wallet": [
+        "1BoatSLRHtKNngkdXEeobR76b53LETtpyT"
+      ],
+      "pgp_key": [],
+      "timestamp": []
+    }
+  },
+  {
+    "site": "site8.txt",
+    "content_snippet": "Support: help@onionservice.onion\nPGP Key: 0xB16B00B5\nBTC Wallet: 3J98t1WpEZ73CNmQviecrnyiWrnqRhWNLy",
+    "metadata": {
+      "email": [
+        "help@onionservice.onion"
+      ],
+      "btc_wallet": [
+        "3J98t1WpEZ73CNmQviecrnyiWrnqRhWNLy"
+      ],
+      "pgp_key": [
+        "0xB16B00B5"
+      ],
+      "timestamp": []
+    }
+  },
+  {
+    "site": "site9.txt",
+    "content_snippet": "Announcement: New vendor\nContact: cyberhunter@mail.com\nBTC: 1FfmbHfnpaZjKFvyi1okTjJJusN455paPH\nPGP: 0xDEADBEEF",
+    "metadata": {
+      "email": [
+        "cyberhunter@mail.com"
+      ],
+      "btc_wallet": [
+        "1FfmbHfnpaZjKFvyi1okTjJJusN455paPH"
+      ],
+      "pgp_key": [
+        "0xDEADBEEF"
+      ],
+      "timestamp": []
+    }
+  }
+]

@@ -1,0 +1,4 @@
+Forum: LeakHub
+Admin email: admin@leakhub.org
+Donation wallet: 1BoatSLRHtKNngkdXEeobR76b53LETtpyT
+PGP: 0x9C123456

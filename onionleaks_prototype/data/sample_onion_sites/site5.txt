@@ -1,0 +1,4 @@
+Service: SecureMail
+Email: secure.helpdesk@mail.com
+Note: We accept BTC 3Ai1JZ8pdJb2ksieUV8Fsx2Xxk8M7qkV3Q
+PGP: 0xCAFEBABE

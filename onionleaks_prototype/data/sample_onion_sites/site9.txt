@@ -1,0 +1,4 @@
+Announcement: New vendor
+Contact: cyberhunter@mail.com
+BTC: 1FfmbHfnpaZjKFvyi1okTjJJusN455paPH
+PGP: 0xDEADBEEF

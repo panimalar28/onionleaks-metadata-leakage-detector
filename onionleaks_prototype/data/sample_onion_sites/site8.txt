@@ -1,0 +1,3 @@
+Support: help@onionservice.onion
+PGP Key: 0xB16B00B5
+BTC Wallet: 3J98t1WpEZ73CNmQviecrnyiWrnqRhWNLy

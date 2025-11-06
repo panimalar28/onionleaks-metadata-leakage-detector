@@ -1,0 +1,3 @@
+Shop: NightTrade
+Reach: night_trade@mail.com
+BTC: 1BoatSLRHtKNngkdXEeobR76b53LETtpyT

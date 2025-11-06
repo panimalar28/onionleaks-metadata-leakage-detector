@@ -1,0 +1,5 @@
+Blog: OnionNews
+Author: reporter@onionpress.onion
+Contact: press@media.com
+BTC Tip: 1BoatSLRHtKNngkdXEeobR76b53LETtpyT
+PGP Key: 0x9C123456

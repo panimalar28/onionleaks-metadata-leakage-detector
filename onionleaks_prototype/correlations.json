@@ -1,0 +1,120 @@
+[
+  {
+    "site": "site1.txt",
+    "matches": [
+      {
+        "type": "email",
+        "value": "darkking@protonmail.com"
+      },
+      {
+        "type": "wallet",
+        "value": "1BoatSLRHtKNngkdXEeobR76b53LETtpyT"
+      },
+      {
+        "type": "pgp_key",
+        "value": "0x9C123456"
+      }
+    ],
+    "score": 30
+  },
+  {
+    "site": "site10.txt",
+    "matches": [
+      {
+        "type": "wallet",
+        "value": "1BoatSLRHtKNngkdXEeobR76b53LETtpyT"
+      },
+      {
+        "type": "pgp_key",
+        "value": "0x9C123456"
+      }
+    ],
+    "score": 20
+  },
+  {
+    "site": "site2.txt",
+    "matches": [
+      {
+        "type": "email",
+        "value": "shadow.seller@mail.com"
+      },
+      {
+        "type": "wallet",
+        "value": "3J98t1WpEZ73CNmQviecrnyiWrnqRhWNLy"
+      }
+    ],
+    "score": 20
+  },
+  {
+    "site": "site3.txt",
+    "matches": [
+      {
+        "type": "wallet",
+        "value": "1BoatSLRHtKNngkdXEeobR76b53LETtpyT"
+      },
+      {
+        "type": "pgp_key",
+        "value": "0x9C123456"
+      }
+    ],
+    "score": 20
+  },
+  {
+    "site": "site4.txt",
+    "matches": [
+      {
+        "type": "pgp_key",
+        "value": "0xDEADBEEF"
+      }
+    ],
+    "score": 10
+  },
+  {
+    "site": "site6.txt",
+    "matches": [
+      {
+        "type": "email",
+        "value": "darkking@protonmail.com"
+      },
+      {
+        "type": "pgp_key",
+        "value": "0x9C123456"
+      }
+    ],
+    "score": 20
+  },
+  {
+    "site": "site7.txt",
+    "matches": [
+      {
+        "type": "wallet",
+        "value": "1BoatSLRHtKNngkdXEeobR76b53LETtpyT"
+      }
+    ],
+    "score": 10
+  },
+  {
+    "site": "site8.txt",
+    "matches": [
+      {
+        "type": "wallet",
+        "value": "3J98t1WpEZ73CNmQviecrnyiWrnqRhWNLy"
+      }
+    ],
+    "score": 10
+  },
+  {
+    "site": "site9.txt",
+    "matches": [
+      {
+        "type": "email",
+        "value": "cyberhunter@mail.com"
+      },
+      {
+        "type": "pgp_key",
+        "value": "0xDEADBEEF"
+      }
+    ],
+    "score": 20
+  }
+]
